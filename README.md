@@ -1,5 +1,5 @@
-![Cringe](https://img.shields.io/badge/Cringe-trochę-orange.svg)
-![Java](https://img.shields.io/badge/Java-100%25-%23328da8) 
+![Java](https://img.shields.io/badge/Java-95%25-%23328da8)
+![Brain](https://img.shields.io/badge/Brain-DEV%20ERROR%206068-%23ff0000)
 
 **Witaj, przybyszu!**
 
