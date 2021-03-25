@@ -1,4 +1,5 @@
 ! [Cringe](https://img.shields.io/badge/Cringe-trochę-orange.svg)
+! [Java] (https://img.shields.io/badge/Java-100%25-%23328da8) 
 
 **Witaj, przybyszu!**
 
