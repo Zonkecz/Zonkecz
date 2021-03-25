@@ -1,3 +1,5 @@
+https://img.shields.io/badge/Java-100%25-%23ffea00
+
 **Witaj, przybyszu!**
 
 
