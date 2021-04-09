@@ -25,7 +25,7 @@ Kiedyś może coś zrobię i upublicznię. Póki co - nie ma.
 
 Musisz odwiedzić tego zacnego bloga: 
 
-<br> <img align="left" alt="Play" width="40px" src="https://user-images.githubusercontent.com/62351939/114227828-cc22fb00-9975-11eb-892f-aac6a7e4600a.png"/> </br>
+<br><img align="left" alt="Play" width="40px" src="https://user-images.githubusercontent.com/62351939/114227828-cc22fb00-9975-11eb-892f-aac6a7e4600a.png"/></br>
 
 
 ## Narzędzia, języki i inne
