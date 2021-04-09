@@ -8,8 +8,7 @@ Wszystko zostało już pewnie napisane, jeśli nie to w przyszłości się tu po
 I pamiętaj, nigdy nie spuszczaj wzroku z przeciwnika.
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zonkecz&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zonkecz&show_icons=true&theme=react)
 
 
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=xc5bolf7jfru7edjr1uvm8as6&cover_image=true" alt="codeSTACKr Spotify Playing" height="333" />](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
