@@ -10,8 +10,7 @@ I pamiętaj, nigdy nie spuszczaj wzroku z przeciwnika.
 
 
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xc5bolf7jfru7edjr1uvm8as6&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=xc5bolf7jfru7edjr1uvm8as6&cover_image=true" alt="codeSTACKr Spotify Playing"  height="250" />](https://github.com/kittinan/spotify-github-profile)
 
 
  ## Narzędzia i języki
