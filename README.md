@@ -3,7 +3,7 @@
 
 # Witaj, przybyszu!
 
-Wszystko zostało już pewnie napisane, jeśli nie to w przyszłości się tu pojawi.
+Wszystko zostało już pewnie napisane, jeśli nie to w przyszłości się tu pojawi. 
 I pamiętaj, nigdy nie spuszczaj wzroku z przeciwnika.
 
 <!---
