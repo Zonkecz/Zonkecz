@@ -1,7 +1,8 @@
 ![Java](https://img.shields.io/badge/Java-95%25-%23ff8c00)
 ![Brain](https://img.shields.io/badge/Brain-DEV%20ERROR%206068-%23ff0000)
 
-# Witaj, przybyszu!
+# Witaj, jestem Zonkecz!
+
 
 Wszystko zostało już pewnie napisane, jeśli nie to w przyszłości się tu pojawi. 
 I pamiętaj, nigdy nie spuszczaj wzroku z przeciwnika.
