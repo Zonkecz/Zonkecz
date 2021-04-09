@@ -4,7 +4,7 @@
 
 # Witaj, jestem Zonkecz!
 
-
+Klikanie w kąkuter to dosyć ciekawe zajęcie.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zonkecz&show_icons=true&theme=react)
 
