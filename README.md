@@ -1,4 +1,4 @@
-![Java](https://img.shields.io/badge/Java-95%25-%23ff8c00)
+![Java](https://img.shields.io/badge/Java-★★★★★-%23ff8c00)
 ![Brain](https://img.shields.io/badge/Brain-DEV%20ERROR%206068-%23ff0000)
 
 # Witaj, jestem Zonkecz!
