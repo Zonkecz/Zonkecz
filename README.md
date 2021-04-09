@@ -3,12 +3,8 @@
 
 # Witaj, przybyszu!
 
-
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Wszystko zostało już pewnie napisane, jeśli nie to w przyszłości się tu pojawi.
+I pamiętaj, nigdy nie spuszczaj wzroku z przeciwnika.
 
 <!---
 Zonkecz/Zonkecz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
