@@ -5,9 +5,6 @@
 # Witaj, jestem Zonkecz!
 
 
-Wszystko zostało już pewnie napisane, jeśli nie to w przyszłości się tu pojawi. 
-I pamiętaj, nigdy nie spuszczaj wzroku z przeciwnika.
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zonkecz&show_icons=true&theme=react)
 
