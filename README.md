@@ -11,7 +11,7 @@ I pamiętaj, nigdy nie spuszczaj wzroku z przeciwnika.
 
 
 
-[<img src="https://now-playing-Jacøb.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/	xc5bolf7jfru7edjr1uvm8as6)
+[<img src="https://now-playing-Jacøb.vercel.app/api/spotify-playing" alt="Jacøb" width="350" />](https://open.spotify.com/user/xc5bolf7jfru7edjr1uvm8as6)
 
 
 
