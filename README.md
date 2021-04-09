@@ -14,7 +14,7 @@ I pamiętaj, nigdy nie spuszczaj wzroku z przeciwnika.
 
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=xc5bolf7jfru7edjr1uvm8as6&cover_image=true" alt="codeSTACKr Spotify Playing" height="333" />](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
- ## Narzędzia i języki
+ ## Narzędzia, języki i inne
 
 <img align="left" alt="GitHub" width="35px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />
 <img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
