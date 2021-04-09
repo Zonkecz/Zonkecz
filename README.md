@@ -1,4 +1,5 @@
 ![Java](https://img.shields.io/badge/-Java-ff7403?logo=Java&style=for-the-badge&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-★★★★★-%23ff7403)
 ![Brain](https://img.shields.io/badge/Brain-DEV%20ERROR%206068-%23ff0000)
 
 
