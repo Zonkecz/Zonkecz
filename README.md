@@ -22,7 +22,7 @@ Kiedyś może coś zrobię i upublicznię. Póki co - nie ma.
 
 **Musisz odwiedzić tego zacnego bloga ->** https://naprodukcji.xyz/
 
-## Social media:
+## Social media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zonkecz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/J4c0b_2)  
 
 
