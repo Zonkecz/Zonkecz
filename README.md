@@ -19,8 +19,7 @@ Kiedyś może coś zrobię i upublicznię. Póki co - nie ma.
 
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=xc5bolf7jfru7edjr1uvm8as6&cover_image=true" alt="codeSTACKr Spotify Playing" height="333" />](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-
-**Musisz odwiedzić tego zacnego bloga ->** https://naprodukcji.xyz/
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://naprodukcji.xyz/)
 
 ## Social media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zonkecz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/J4c0b_2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15216021)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UClxV6rT8s3D0x4Xs73SqyIA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](Zonkecz)  
