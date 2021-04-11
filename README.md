@@ -4,7 +4,7 @@
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://naprodukcji.xyz/)
 
-# Witaj, jestem Zonkecz!
+# Witaj, jestem Zonkecz! :duck:
 
 Klikanie w kąkuter to dosyć ciekawe zajęcie.
 
