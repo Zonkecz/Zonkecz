@@ -1,6 +1,6 @@
 ![Java](https://img.shields.io/badge/Java-★★★★★-%23ff7403)
 ![Brain](https://img.shields.io/badge/Brain-DEV%20ERROR%206068-%23ff0000)
-<a href="https://github.com/zonkecz" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+<img src="https://komarev.com/ghpvc/?username=zonkecz" alt="https://github.com/zonkecz" />
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://naprodukcji.xyz/)
 
