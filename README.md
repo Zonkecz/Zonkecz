@@ -25,7 +25,7 @@ Kiedyś może coś zrobię i upublicznię. Póki co - nie ma.
  
 
 
-## Technologie
+## Technologies
  
 
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
