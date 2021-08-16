@@ -1,4 +1,3 @@
-![Java](https://img.shields.io/badge/Java-★★★★★-%23ff7403)
 ![Brain](https://img.shields.io/badge/Brain-DEV%20ERROR%206068-%23ff0000)
 <img src="https://komarev.com/ghpvc/?username=zonkecz" alt="https://github.com/zonkecz" />
 
