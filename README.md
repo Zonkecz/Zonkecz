@@ -1,5 +1,4 @@
 ![Brain](https://img.shields.io/badge/Brain-DEV%20ERROR%206068-%23ff0000)
-<img src="https://komarev.com/ghpvc/?username=zonkecz" alt="https://github.com/zonkecz" />
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://naprodukcji.xyz/)
 
